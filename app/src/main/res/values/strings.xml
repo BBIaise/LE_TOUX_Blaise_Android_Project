@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rainbow</string>
+    <string name="title">Ready ?!</string>
+    <string name="supporting_text" />
+    <string name="decline">Not Now</string>
+    <string name="accept">Lets GOO</string>
+    <string name="mode_sombre">Mode Sombre</string>
+    <string name="activ_le_bluetooth_pour_avoir_acc_s_a_certaines_fonctionnalit_es">Activé le bluetooth pour avoir accès a certaines fonctionnalitées</string>
+    <string name="utiliser_le_mode_sombre_pour_une_meilleur_immersion">Utiliser le mode sombre pour une meilleur immersion</string>
+    <string name="r_glages">Réglages</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="scan_ended">Scan terminé</string>
+    <string name="dialogPermissionTittle">Permission requise</string>
+    <string name="dialogPermissionText">Le Bluetooth n\'est actuellement pas activer, veuillez l\'activer afin de pouvoir utiliser cette fonctionnalitée.</string>
+    <string name="dialogPermissionDecline">Annuler</string>
+    <string name="dialogPermissionAccept">Accepter</string>
+    <string name="retour">Retour</string>
+</resources>

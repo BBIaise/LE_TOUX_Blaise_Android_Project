@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:key="dark_mode"
+        app:title="Activer le mode sombre"
+        app:summary="Activez le mode sombre pour une expérience plus agréable."
+        app:defaultValue="false" />
+
+    <SwitchPreferenceCompat
+        app:key="enable_location"
+        app:title="Activer la localisation"
+        app:summary="Activez la localisation pour utiliser certaines fonctionnalités."
+        app:defaultValue="false" />
+
+    <SwitchPreferenceCompat
+        app:key="enable_bluetooth"
+        app:title="Activer le Bluetooth"
+        app:summary="Activez le Bluetooth pour des fonctionnalités spécifiques."
+        app:defaultValue="false" />
+
+</PreferenceScreen>
